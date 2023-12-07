@@ -1,0 +1,10 @@
+Feature/Mandatory/_r_1
+Feature/Mandatory/_r_2
+Feature/Mandatory/_r_3
+Feature/Optional/_r_4
+Feature/Optional/_r_5
+Feature/Mandatory/_r_6
+Feature/Or/_r_17_18-_r_17_19-_r_17_20
+_r_2/Or/_r_2_7_8-_r_2_7_12
+_r_2_7_8/Or/_r_2_7_8_13_14-_r_2_7_8_13_15-_r_2_7_8_13_16
+_r_3/Or/_r_3_21_22-_r_3_21_23-_r_3_21_24

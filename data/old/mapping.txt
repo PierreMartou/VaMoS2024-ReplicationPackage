@@ -1,0 +1,15 @@
+Adult-IMPLIES-Search-Description
+Teen-IMPLIES-Match-ProfilePicture
+Handle Photos-Good Connection-IMPLIES-Photos
+Bad Connection-IMPLIES-Lite
+Good Connection-IMPLIES-Standard
+Meeting-IMPLIES-Mute
+Loud-IMPLIES-Vibrator
+Night-IMPLIES-Mute
+Sound-Day-IMPLIES-Alarm
+Sound-IMPLIES-Vocals
+Desktop-IMPLIES-Complete
+Smartphone-IMPLIES-Minimalist
+Smartphone-IMPLIES-Keyboard
+Tablet-IMPLIES-Keyboard
+Tablet-IMPLIES-Complete

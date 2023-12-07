@@ -1,0 +1,16 @@
+Feature/Mandatory/_r_1
+Feature/Mandatory/_r_2
+Feature/Mandatory/_r_3
+Feature/Optional/_r_4
+Feature/Optional/_r_15
+_r_2/Mandatory/_r_2_34
+_r_2/Optional/_r_2_35
+_r_3/Mandatory/_r_3_12
+_r_3/Mandatory/_r_3_27
+_r_3/Mandatory/_r_3_42
+_r_3_27/Or/_r_3_27_29_30-_r_3_27_29_33
+_r_3_42/Or/_r_3_42_43_44-_r_3_42_43_46
+_r_4/Mandatory/_r_4_16
+_r_4/Optional/_r_4_18
+_r_4_18/Mandatory/_r_4_18_19
+_r_4_18/Mandatory/_r_4_18_20

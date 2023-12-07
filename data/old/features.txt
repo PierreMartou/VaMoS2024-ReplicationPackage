@@ -1,0 +1,12 @@
+Features/Mandatory/NotificationSystem-MessageType-FriendFeature-ContactList-Display
+Features/Optional/Mode
+NotificationSystem/Alternative/Vibrator-Mute-Alarm
+MessageType/Mandatory/Textual
+MessageType/Optional/Photos-Vocals
+FriendFeature/Mandatory/FriendName
+FriendFeature/Optional/Description-ProfilePicture
+ContactList/Mandatory/GroupFeature-AddSystem
+Mode/Alternative/Standard-Lite
+AddSystem/Alternative/Match-Search
+Display/Or/Layout-Keyboard
+Layout/Alternative/Minimalist-Complete

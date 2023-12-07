@@ -1,0 +1,10 @@
+Occupied-IMPLIES-Mute
+Quiet-IMPLIES-Mute
+Normal-Available-AudioCard-IMPLIES-Alarm
+Loud-Available-IMPLIES-Vibration
+AudioCard-IMPLIES-Vocal
+VideoCard-Good-IMPLIES-Photo
+Good-IMPLIES-Standard
+Bad-IMPLIES-Light
+Teen-IMPLIES-Match-ProfilePicture
+Adult-IMPLIES-Search-Description

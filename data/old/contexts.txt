@@ -1,0 +1,9 @@
+Contexts/Optional/Device Capabilities-Connection
+Contexts/Mandatory/Environment-Age-Device
+Device Capabilities/Or/Handle Photos-Sound
+Connection/Alternative/Bad Connection-Good Connection
+Environment/Alternative/In Pocket-Out Pocket
+Age/Alternative/Teen-Adult
+In Pocket/Alternative/Meeting-Loud
+Out Pocket/Alternative/Night-Day
+Device/Alternative/Desktop-Tablet-Smartphone

@@ -1,0 +1,12 @@
+Feature/Optional/undefined_on_paper
+Feature/Mandatory/follow_me
+Feature/Optional/virtual_printer
+follow_me/Optional/undefined_on_paper
+follow_me/Mandatory/user_localize
+follow_me/Mandatory/logon
+user_localize/Mandatory/user_pos_method
+user_pos_method/Or/access_point-rfid
+logon/Optional/undefined_on_paper
+virtual_printer/Mandatory/printer_register
+virtual_printer/Mandatory/file_upload
+virtual_printer/Optional/file_converter

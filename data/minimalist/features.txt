@@ -1,0 +1,8 @@
+Feature/Mandatory/MessageType-Friend-ContactList-Sending-Receiving
+Feature/Optional/Mode-Notification
+Notification/Alternative/Vibration-Mute-Alarm
+MessageType/Mandatory/Text
+MessageType/Optional/Photo-Vocal
+Friend/Mandatory/FriendName
+ContactList/Mandatory/Group-AddSystem
+Mode/Alternative/Standard-Light

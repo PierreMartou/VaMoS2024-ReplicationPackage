@@ -1,0 +1,4 @@
+~crprationor~illness
+~personor~damage
+~lossormovable_property
+~crprationorpayee_crpration

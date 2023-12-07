@@ -1,0 +1,54 @@
+Feature/Mandatory/transfrmation rules
+Feature/Optional/rule application scoping
+Feature/Mandatory/sourcetarget relationship
+Feature/Mandatory/rule application strategy
+Feature/Mandatory/rule scheduling
+Feature/Mandatory/rule rganization
+Feature/Mandatory/tracing
+Feature/Mandatory/directionality
+transfrmation rules/Mandatory/lhsrhs
+transfrmation rules/Optional/lhsrhs syntactic separation
+transfrmation rules/Optional/bidirectionality
+transfrmation rules/Optional/parameterization
+transfrmation rules/Optional/intermediate structures
+lhsrhs/Optional/variables
+lhsrhs/Or/patterns-logic
+variables/Or/untyped-syntactically typed-semantically typed
+patterns/Mandatory/frm
+patterns/Mandatory/syntax
+patterns/Mandatory/typing
+frm/Or/strings-terms-graphs
+syntax/Or/abstract-concrete
+concrete/Or/textual-graphical
+typing/Or/typ_untyped-typ_syntactically_typed-typ_semantically_typed
+logic/Or/nonexecutable-executable
+executable/Or/imperative-declarative
+rule application scoping/Or/scoping_source-target_source
+sourcetarget relationship/Or/new target-existing target
+existing target/Optional/inplace
+existing target/Mandatory/update
+update/Or/destructive-extension only
+rule application strategy/Or/deterministic-nondeterministic-interactive
+nondeterministic/Or/concurrent-onepoint
+rule scheduling/Mandatory/frm
+rule scheduling/Mandatory/rule selection
+rule scheduling/Optional/rule iteration
+rule scheduling/Optional/phasing
+frm/Or/implicit-explicit
+explicit/Or/internal-external
+rule selection/Or/explicit condition-nondeterminism-conflict resolution-interactive
+rule iteration/Or/recursion-looping-fixpoint iteration
+rule rganization/Optional/modulatiry mechanisms
+rule rganization/Optional/reuse mechanisms
+rule rganization/Mandatory/rganizational structure
+reuse mechanisms/Or/inheritance-logical composition
+rganizational structure/Or/sourceriented-targetriented-independent
+tracing/Optional/dedicated supprt
+dedicated supprt/Mandatory/strage location
+dedicated supprt/Mandatory/control
+strage location/Or/model-separate
+model/Or/model_source-model_target
+control/Or/manual-automatic
+automatic/Or/all rules-selected rules
+directionality/Or/unidirectional-bidirectional
+bidirectional/Or/bidirectional rules-complementary pairs

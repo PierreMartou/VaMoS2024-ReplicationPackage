@@ -1,0 +1,12 @@
+Feature/Mandatory/measurements
+Feature/Mandatory/data_source
+Feature/Mandatory/output_frmat
+Feature/Optional/alarm
+measurements/Or/pressure-temperature-wind_speed
+data_source/Or/internet-demo-external_services
+output_frmat/Or/text-web_server-file
+output_frmat/Mandatory/frmat
+output_frmat/Mandatory/language
+frmat/Or/xml-html-plain_text
+language/Or/english-german
+alarm/Or/freeze_point-storm_alert

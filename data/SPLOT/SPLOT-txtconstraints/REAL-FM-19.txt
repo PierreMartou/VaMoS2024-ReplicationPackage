@@ -1,0 +1,8 @@
+~do_undo_redoorgraph_manipulation
+~zoom_inoutorgraph_manipulation
+~composeor~do_undo_redoorcompose_do_undo_redo
+~compose_do_undo_redoorcompose
+~compose_do_undo_redoordo_undo_redo
+~layer_adjustor~do_undo_redoorlayer_adjust_do_undo_redo
+~layer_adjust_do_undo_redoordo_undo_redo
+~layer_adjust_do_undo_redoorlayer_adjust

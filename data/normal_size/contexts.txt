@@ -1,0 +1,8 @@
+Context/Optional/Peripheral-Connection
+Context/Mandatory/UserAvailability-Noise-Age
+UserAvailability/Alternative/Occupied-Available
+Noise/Alternative/Quiet-Normal-Loud
+Peripheral/Or/VideoCard-AudioCard
+Connection/Alternative/Bad-Good
+Noise/Alternative/Quiet-Normal-Loud
+Age/Alternative/Teen-Adult

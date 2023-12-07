@@ -1,0 +1,12 @@
+Feature/Mandatory/_r_1
+Feature/Mandatory/_r_2
+Feature/Mandatory/_r_3
+Feature/Mandatory/_r_4
+Feature/Mandatory/_r_5
+Feature/Mandatory/_r_6
+Feature/Mandatory/_r_7
+Feature/Mandatory/_r_8
+Feature/Mandatory/_r_9
+Feature/Mandatory/_r_10
+Feature/Mandatory/_r_11
+Feature/Mandatory/_r_12

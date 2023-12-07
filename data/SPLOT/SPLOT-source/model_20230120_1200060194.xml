@@ -1,0 +1,35 @@
+<!-- This model was created online using SPLOT's Feature Model Editor (http://www.splot-research.org) on Sun, Jan 22, 2023 - 2:20 PM  -->
+<feature_model name="eShop">
+<meta>
+<data name="description">eShop</data>
+<data name="creator">viplesh</data>
+<data name="address"></data>
+<data name="email">viplesh2022@gmail.com</data>
+<data name="phone"></data>
+<data name="website"></data>
+<data name="organization">amity</data>
+<data name="department"></data>
+<data name="date"></data>
+<data name="reference"></data>
+</meta>
+<feature_tree>
+:r e-Shop(_r)
+	:m Catalog(_r_1)
+	:m Payment(_r_2)
+		:g (_r_2_5) [1,*] 
+			: Bank Transfer(_r_2_5_6)
+		:g (_r_2_7) [1,*] 
+			: Credit Card(_r_2_7_8)
+		:g (_r_2_9) [1,*] 
+			: eCoins(_r_2_9_10)
+	:o Search(_r_3)
+	:m Security(_r_4)
+		:g (_r_4_11) [1,1] 
+			: High(_r_4_11_12)
+		:g (_r_4_13) [1,1] 
+			: Standard(_r_4_13_14)
+</feature_tree>
+<constraints>
+constraint_1:_r_2_7_8 or _r_4_11_12
+</constraints>
+</feature_model>

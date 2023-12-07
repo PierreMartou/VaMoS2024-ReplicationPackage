@@ -1,0 +1,4 @@
+Context/Optional/GPSconnection-Hazard
+Hazard/Mandatory/Zone-Type
+Zone/Alternative/Impactedzone-Safezone
+Type/Or/Coldweather-Floods
